@@ -6,22 +6,22 @@
 - mécanique quantique
   - La matière et l'énergie se fondent sur une nouvelle définition
   - dualité onde/particule
-  - principe d'incertitue de heiseinberg
+  - principe d'incertitude de Heisenberg
 - relativité
   - Le temps et l'espace se fondent sur une nouvelle définition
 
 ### Moteur de simulation physique: 
-Environement numérique représentant une scene dynamique en reproduissant aussi fidèlement que possibve les effets d'ombre et les effets sonnores
+Environement numérique représentant une scene dynamique en reproduissant aussi fidèlement que possible les effets d'ombre et les effets sonnores
 
 ### Contraintes:
 -   Réponse/Rapidité du moteur
 -   Utilisation de mémoire et de stockage
 -   Précision de la réponse
 
-Il existe deux méthodologie opposée: Déterministe/Monté-Carlo
+Il existe deux méthodologies opposées: Déterministe/Monté-Carlo
 
 ### Étapes pour la conception d'une application
-1. Identifier les phénomènes physique
+1. Identifier les phénomènes physiques
 2. Traduire en équations
 3. Choisir les méthodes numériques en respectant les contraintes
 4. Programmer et valider les méthodes
